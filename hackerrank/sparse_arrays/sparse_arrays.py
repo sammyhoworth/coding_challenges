@@ -34,7 +34,8 @@ if __name__ == '__main__':
     print(strings)
     print(queries)
     
-    print(matchingStrings(strings, queries))
-
+    result = matchingStrings(strings, queries)
+    print(result)
+    fptr.write(str(result) + '\n')
     fptr.close()
     
