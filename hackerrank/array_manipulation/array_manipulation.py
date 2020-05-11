@@ -33,11 +33,11 @@ def arrayManipulation( n, queries):
 
 if __name__ == '__main__':
     
-    fptr = open("output.txt", "w+") 
+    fptr = open("./hackerrank/array_manipulation/output.txt", "w+") 
 
     operations = []
 
-    with open("operations.txt", "r") as opfile:
+    with open("./hackerrank/array_manipulation/operations.txt", "r") as opfile:
         # replace with 'testcase_4.txt' for a more challenging case involving an array of length 4000 and 30,000 operations
         # note that testcase_4.txt is from hackerrank's evaluation testcases (need points to 'purchase'), so the version included here has been slightly edited
         for line in opfile:
