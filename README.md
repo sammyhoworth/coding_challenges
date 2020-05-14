@@ -7,3 +7,4 @@ My solutions to select coding challenges
 
 2. Miscellaneous
     a. Powerset
+    b. Clock hand angle
