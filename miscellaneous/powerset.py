@@ -1,3 +1,4 @@
+# Compute the powerset (all possible subsets, including the empty set) of a given set
 
 def powerset(it):
     itl = list(it)
