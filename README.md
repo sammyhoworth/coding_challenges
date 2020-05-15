@@ -9,7 +9,9 @@ My solutions to select coding challenges
 * New Year Chaos  
 * Sherlock and Anagrams  
 * Sparse Arrays  
-Note that I've made custom input files for some of the scripts  
+
+Note that I've made custom input files for some of the scripts (see 'inputs' folder)
+'Outputs' folder houses .txt output files (consistent with HackerRank submission requirements)
      
 2. Miscellaneous  
 * Clock hand angle (calculate angle between hour and minute hands for a given time)  
