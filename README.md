@@ -8,8 +8,8 @@ My solutions to select coding challenges
    . Minimum Swaps 2  
    . New Year Chaos  
    . Sherlock and Anagrams  
-   . Sparse Arrays  
-Note that I've made custom input files for some of the scripts  
+   . Sparse Arrays
+ Note that I've made custom input files for some of the scripts  
      
 2. Miscellaneous  
    . Powerset (create the powerset [set of all possible subsets] of a given set)  
