@@ -2,7 +2,7 @@
 My solutions to select coding challenges
 
 1. HackerRank  
- a. Arrays
+ a. Arrays  
    . Array Manipulation   (Hard)  
    . Sparse Arrays        (Medium)    
    . New Year Chaos       (Medium)  
