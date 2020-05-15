@@ -1,7 +1,7 @@
 # Coding Challenges
 My solutions to select coding challenges
 
-1. HackerRank  
+1. HackerRank
    . Array Manipulation  
    . Frequency Queries  
    . Left Rotation  
@@ -9,6 +9,7 @@ My solutions to select coding challenges
    . New Year Chaos  
    . Sherlock and Anagrams  
    . Sparse Arrays  
+* note that I've made custom input files for some of the scripts  
      
 2. Miscellaneous  
    . Powerset (create the powerset [set of all possible subsets] of a given set)  
