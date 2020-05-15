@@ -19,13 +19,13 @@ def matchingStrings(strings, queries):
 
 if __name__ == '__main__':
 
-    fptr = open("./hackerrank/sparse_arrays/output.txt", "w+") 
+    fptr = open("./outputs/output_sparse_arrays.txt", "w+") 
 
     #strings_count = int(input())
 
     inputs = []
 
-    with open("./hackerrank/sparse_arrays/input.txt", "r") as opfile:
+    with open("./inputs//input_sparse_arrays.txt", "r") as opfile:
         for line in opfile:
             inputs.append(line.strip())
 

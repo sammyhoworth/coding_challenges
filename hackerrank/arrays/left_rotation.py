@@ -1,4 +1,5 @@
 # https://www.hackerrank.com/challenges/array-left-rotation/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
+#!/bin/python3
 
 import math
 import os
@@ -6,8 +7,15 @@ import random
 import re
 import sys
 
+# Complete the rotLeft function below.
+def rotLeft(a, d):
+    result = a[d:] + a[0:d]
+    #print(*result)
+    return result
 
 if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
     nd = input().split()
 
     n = int(nd[0])
@@ -16,5 +24,9 @@ if __name__ == '__main__':
 
     a = list(map(int, input().rstrip().split()))
 
-    result = a[d:] + a[0:d]
-    print(*result)
+    result = rotLeft(a, d)
+
+    fptr.write(' '.join(map(str, result)))
+    fptr.write('\n')
+
+    fptr.close()

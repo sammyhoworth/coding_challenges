@@ -1,12 +1,13 @@
 # Coding Challenges
 My solutions to select coding challenges
 
-1. Hackerrank  
-    a. Array Manipulation   (Diffulty:   Hard)  
-    b. Sparse Arrays        (Difficulty: Medium)  
-    c. New Year Chaos       (Difficulty: Medium)  
-    c. Left Rotation        (Difficulty: Easy)  
-  
+1. HackerRank  
+ a. Arrays
+   . Array Manipulation   (Hard)  
+   . Sparse Arrays        (Medium)    
+   . New Year Chaos       (Medium)  
+   . Left Rotation        (Easy)  
+
 2. Miscellaneous  
-    a. Powerset  
-    b. Clock hand angle  
+   . Powerset  
+   . Clock hand angle  
