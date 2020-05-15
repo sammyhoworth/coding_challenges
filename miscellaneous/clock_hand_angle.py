@@ -3,8 +3,7 @@
 def hands_angles(t):
     h = t.split(':')[0]
     m =  t.split(':')[1]
-
-   
+  
     hang1 = 360 * ( int(h) / 12 )
     hang2 = (360/12) * (int(m)/60)
 
@@ -12,7 +11,6 @@ def hands_angles(t):
     print (hang1, hang2, ' = ', hang1+hang2)
     print(minang)
     return [abs((hang1+hang2) - minang), 360 - abs((hang1+hang2) - minang)]
-
 
 
 if __name__ == '__main__':
