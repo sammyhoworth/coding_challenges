@@ -10,7 +10,7 @@ My solutions to select coding challenges
 * Sherlock and Anagrams  
 * Sparse Arrays  
 
-Note that I've made custom input files for some of the scripts (see 'inputs' folder)
+Note that I've made custom input files for some of the scripts (see 'inputs' folder)  
 'Outputs' folder houses .txt output files (consistent with HackerRank submission requirements)
      
 2. Miscellaneous  
