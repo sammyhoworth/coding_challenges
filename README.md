@@ -5,6 +5,7 @@ My solutions to select coding challenges
 * Array Manipulation  
 * Frequency Queries  
 * Left Rotation  
+* Mark and Toys  
 * Minimum Swaps 2  
 * New Year Chaos  
 * Sherlock and Anagrams  
