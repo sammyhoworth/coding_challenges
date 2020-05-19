@@ -1,3 +1,4 @@
+# Challenge available here: https://www.hackerrank.com/challenges/mark-and-toys/problem
 #!/bin/python3
 
 import math
@@ -12,12 +13,9 @@ def maximumToys(prices, k):
     ntoys = 0
 
     while k > 0:
-        k -= prices[i]
+        k -= sorted_prices[i]
         ntoys += 1
     return ntoys - 1
-
-
-
 
 
 if __name__ == '__main__':
