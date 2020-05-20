@@ -16,9 +16,8 @@ def minimumBribes(q):
     nmoves = 0
     
     for i in range(len(q)):
-        #print("i ", i)
         if q[i] - (i+1) >= 3:
-            # if q[i] is is 3 or greater than i+1 (its 'natural' value)
+            # if q[i] is 3 or greater than i+1 (its 'natural' value), then it must've jumped at least 3 times to get there
             print ("Too chaotic")
             return
         for j in range(max(0,q[i]-2),i):
